@@ -1,0 +1,11 @@
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\bin\Debug\netcoreapp2.0\ASPNetCoreReact.deps.json
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\bin\Debug\netcoreapp2.0\ASPNetCoreReact.runtimeconfig.json
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\bin\Debug\netcoreapp2.0\ASPNetCoreReact.runtimeconfig.dev.json
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\bin\Debug\netcoreapp2.0\ASPNetCoreReact.dll
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\bin\Debug\netcoreapp2.0\ASPNetCoreReact.pdb
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.csprojResolveAssemblyReference.cache
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.csproj.CoreCompileInputs.cache
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.AssemblyInfoInputs.cache
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.AssemblyInfo.cs
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.dll
+C:\Users\pdo91\source\repos\ASPNetCoreReact\ASPNetCoreReact\obj\Debug\netcoreapp2.0\ASPNetCoreReact.pdb
